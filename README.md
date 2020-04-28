@@ -39,7 +39,6 @@ Sometimes, having files in a spreadsheet format is more useful for analysts and 
 - [State-wise key stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vTkixJNsO3otK_yOz-7Ru--yNo9S3J9S6ENFIKU6rDuNwhVTAXJWuPH2mzTzBEt1vzhvzQ1Zxyy9ZAt/pubhtml) (by [@Ankan_Plotter](https://t.me/Ankan_Plotter))
 - [Stats and viz in Google Data Studio](https://tinyurl.com/covid19indiadashboard) (by [@veeyeskay](https://t.me/veeyeskay))
 
-**Other Trackers/Dashboards**
 - [Tracker](https://covidstat.info/) (by [@skavinvarnan ](https://github.com/skavinvarnan))
 - [Statistics and Predictive Analysis (India)](https://gnsp.in/covid19/) (by [@GnsP](https://github.com/GnsP))
 - [TN Specific](https://covid19trackerbk.netlify.app/) - [Repo](https://github.com/dynamicbalaji/covid19-tracker)
